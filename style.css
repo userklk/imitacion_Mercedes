@@ -1,0 +1,61 @@
+video {
+
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 110%;
+    z-index: -1;
+}
+
+.coche1{
+    
+    background-image: url(pexels-mikebirdy-170811.jpg);
+    background-size: cover;
+    width: 1100px;
+	height: 550px;
+    
+}
+.textosCoche1{
+        background: linear-gradient(to top, black, 90%, transparent);
+      
+}
+.coche2{
+    
+    background-image: url(pexels-mikebirdy-112460.jpg);
+    background-size: cover;
+    width: 500px;
+	height: 550px;
+
+    
+}
+.textosCoches2{
+        background: linear-gradient(to top, black, 50%, transparent);
+        /* margin-top: 30%; */
+        padding-top: 384px;
+      
+}
+
+
+
+
+
+.imgsGrid2{
+    height: 600px;
+    width: 600px;
+}
+.gridTres{
+    background-size: cover;
+    height: 600px;
+    width: 600px;
+    
+}
+.gridTresTres{
+background-image: url(pexels-vlad-52729368-12397897.jpg);
+}
+.gridTresDos{
+ background-image: url(pexels-hazardos-804130.jpg);
+}
+.gridTresUno{
+    background-image: url(pexels-gvbrielh-3593922.jpg);
+
+}
